@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import "../styles/Login.css";
-import API from "../api/api";
+import API from "../API/api";
 
 function Login() {
 
