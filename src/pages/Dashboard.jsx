@@ -1,7 +1,7 @@
 import Navbar from "../components/Navbar";
 import "../styles/Dashboard.css";
 import { useState, useEffect } from "react";
-import API from "../api/api";
+import API from "../API/api";
 
 function Dashboard() {
 
