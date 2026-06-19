@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Navbar from "../components/Navbar";
 import "../styles/Register.css";
-import API from "../api/api";
+import API from "../API/api";
 
 function Register() {
 
